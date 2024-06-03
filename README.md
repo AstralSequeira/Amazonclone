@@ -63,6 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, feel free to reach out:
 
  Email: Astralsequeira313.com
+ 
  GitHub: https://github.com/AstralSequeira/Amazonclone
  
  Acknowledgements
